@@ -1,0 +1,17 @@
+#form
+{
+   animation-name: transicaodireita;
+   animation-duration: 1s;
+}
+
+@keyframes transicaodireita
+{
+    from
+    {
+        margin-top: -80%;
+    }
+    to
+    {
+        margin-bottom: 0%;
+    }
+}

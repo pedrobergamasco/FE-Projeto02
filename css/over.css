@@ -1,0 +1,16 @@
+h2:hover
+{
+    color: red;
+    transition: all 0.3s ease-in-out;
+}
+
+input:hover
+{
+    border: rgb(231, 52, 52);
+    background: rgb(233, 194, 194);
+}
+
+.botao:hover
+{   border: rgb(235, 7, 7);
+    background: red;
+}
